@@ -1,0 +1,27 @@
+#box{
+    text-align: center;
+    background-color: #537188;
+    width: 500px;
+    margin-top: 10%;
+    margin-left: 35%;
+    height: 350px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+html{
+    background-color: #DBDFAA;
+}
+.form{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+h1{
+    font-size: 33px;
+}
+#head{
+    text-decoration: underline;
+}
+input{
+    height: 20px;
+    text-align: center;
+}
